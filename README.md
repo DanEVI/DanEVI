@@ -24,7 +24,6 @@
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="mysql" width="60" height="60"/>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgres" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
 </div>
 
 ### Frontend
